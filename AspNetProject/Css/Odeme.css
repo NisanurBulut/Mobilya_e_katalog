@@ -1,0 +1,30 @@
+﻿body {
+    
+   background-image:url(../images/OdemePage.jpg);
+
+   background-size:cover;
+   background-repeat:no-repeat;
+   background-color:red;
+
+}
+.table
+{
+  padding-left:30%;
+   padding-top:10%;
+   align-items:center;
+  
+}
+.divHeader
+{
+       width: 150px;
+    height: 24px;
+    position: relative;
+    margin: auto;
+    top: 2px;
+    left: 2px;
+    font-size:20pt;
+}
+.textbox 
+{
+    border-radius: 10px;
+}

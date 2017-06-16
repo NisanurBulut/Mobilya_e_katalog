@@ -1,0 +1,27 @@
+﻿body {
+   background-image:url(../images/Background.jpg);
+   background-size:cover;
+   background-repeat:no-repeat;
+}
+
+.logintable
+{   
+   margin-top:10%;
+   align-content:center;
+   margin-left:40%;
+   height:100px;
+   width:100px;  
+   background-color:yellowgreen;
+}
+
+.textbox 
+{
+    border-radius: 10px;
+}
+.button
+{   
+    margin-left:25px;
+    height:40px;
+    width:80px;
+    
+}

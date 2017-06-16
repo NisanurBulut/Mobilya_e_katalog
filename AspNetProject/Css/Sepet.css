@@ -1,0 +1,16 @@
+﻿body {
+    background-color:aliceblue;
+    font-family:'Lobster',Arial,serif;
+           text-align:center;
+           
+}
+.header
+{
+    background-color:lightblue;
+    width:100%;
+    height:40px;
+}
+.datagrid
+{
+    
+}

@@ -1,0 +1,38 @@
+﻿body {
+   
+   background-image:url(../images/CustomerPage.jpg);
+
+   background-size:cover;
+   background-repeat:no-repeat;
+   
+}
+  .textbox 
+{
+    border-radius: 10px;
+}
+.div_customertext {
+    width: 150px;
+    height: 30px;
+    position: relative;
+    margin: auto;
+    top: 0px;
+    left: 0px;
+}
+.div_buttonkaydet {
+    width: 61px;
+    height: 26px;
+    position: relative;
+    padding-left:35%;
+  
+    left:1%;
+    border-radius: 10px;
+}
+.txt
+{
+    font-family:'Lobster',Arial,serif;
+    text-align:center;
+   
+          font-size:17pt;
+          font-weight:bold;
+         color:red;
+}

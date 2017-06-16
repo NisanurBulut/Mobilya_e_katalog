@@ -1,0 +1,61 @@
+﻿body {
+    background-color:aliceblue;
+    
+   
+    font-family:'Lobster',Arial,serif;
+           text-align:center;
+}
+.header
+{
+   background-color:lightblue;
+    width:100%;
+    height:40px;
+    font-size:20pt;
+    font-family:'Lobster',Arial,serif;
+    text-align:center;
+    
+}
+.table
+{
+    width:100%;
+}
+.footer
+{
+    margin-bottom:0px;
+    background-color:lightblue;
+    width:100%;
+    height:20px;
+}
+
+.myHyperLinks
+{
+    color:black;
+    font-size:200%;
+    margin:auto;
+    text-decoration:none;
+}
+   
+    
+    
+.myHyperLinks:hover
+{
+    color:orange;
+}
+.td
+{
+    border:solid 1px black;
+    
+}
+.td:hover
+{
+    background-color:#cce7ff;
+}
+.hdr
+{
+
+  font-size:20pt;
+    font-family:'Lobster',Arial,serif;
+           text-align:center;
+        
+}
+     
